@@ -1,0 +1,46 @@
+Selenium: will not accept class with space compound classes cannot be accepted error will come.
+id should not be alphanumeric.
+confirm link text with anchor a then only go ahead'
+when xpath starts with html dont rely
+
+
+
+
+
+//button[@name='login']
+
+//input[@type='search']
+
+//div/div/div/center/input
+
+//*[text()='Gmail']-
+$x("//form/div/div/div/div/div/input")-syntax while searching in chrome
+Sx//div/input']")
+
+Following Sibling-we can move to next sibling as well using xpath
+//*[@attribute='value']/following-sibling::li[2]------>LI is the sibling number is it 1 2 or 3
+we can also traverse back to parent by using childxpath
+//*[@attribute='value']/parent::li[2]------>LI is the sibling number is it 1 2 or 3
+
+how to identyfy elemet using text
+relative is always preferrable
+
+CSS is 10 times faster than xpath
+Syntax
+tagname[attribute='value']
+
+[attribute='value']----->this is also fine without tagname
+#id will also works for CSS.
+.classname is also works for css. if there is a space in classname then it should be replaced with dot.
+
+
+
+
+
+
+
+
+
+
+
+
