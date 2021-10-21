@@ -1,0 +1,44 @@
+File takescreenshot as(driver)=file utils(ahmed.jpg)
+copy ()
+
+lsit <Webelemt> links=dirver.findelements by.tagname(" a")
+for(link:link ){
+ string text=link.gettext()
+}
+
+SoftAssert a= new softassert
+
+a.assert(ahmed, expected message);
+
+a.assertall();
+
+List<WebElement> options[]=driver.find elements(by. tagname(dropdowns))
+
+sysoutprint(options);
+
+
+
+driver.get(" www.ahmed.com")
+driver.findelement by. id:("Submit");
+set<Webelement> windows=driver.getwindowhandles():
+iterator it=new windows.iterator(windows);
+parent window=it.next
+Child window=it.next
+driver.find element by.id("today");
+Third window=it.next
+driver.find element by.id("today");
+
+JavaScriptexecuter js= new JavaScriptexecutor();
+
+string amount = "$76000.00"
+
+amount.()
+
+
+//input[@title='Search']
+//input[@Value='Google Search']
+
+
+
+
+
